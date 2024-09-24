@@ -1,0 +1,6 @@
+.DS_Store
+xmrig/
+*.tar
+*.tar.gz
+*.txt
+config.json
